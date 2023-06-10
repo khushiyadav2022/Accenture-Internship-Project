@@ -23,8 +23,8 @@ Social Buzz, a rapidly expanding technology unicorn, requires swift adaptation t
 - Data modeling 
 - Data cleaning
 - Data merging
-2. Data Visulization
-- Content Anlysis
+2. Data Visualization
+- Content Analysis
 <img width="171" alt="distribution of content type" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/0255c1de-42e2-4fe4-97f5-c1447ce49313">
 
 - Category Analysis
@@ -33,7 +33,7 @@ Social Buzz, a rapidly expanding technology unicorn, requires swift adaptation t
 - Reaction Analysis
 <img width="232" alt="Reaction type" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/38c12c68-be31-4db9-9e39-75db3af220fb">
 
-- Monthly / weekly Trends
+- Monthly / weekly Trends Analysis
 <img width="231" alt="Monthly trends" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/0a69f46b-c320-460f-8659-4d43f94bf42d">
 <img width="225" alt="weekly trends" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/2f24b3db-f786-44f5-af02-fc2243e5eadc">
 
