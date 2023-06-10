@@ -10,10 +10,12 @@ Social Buzz, a rapidly expanding technology unicorn, requires swift adaptation t
 - Providing recommendations for a successful initial public offering (IPO)
 - Analyzing and identifying the top 5 most popular categories of content for Social Buzz.
 
+### Dataset Model
+<img width="384" alt="Data Model" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/5f140f09-f580-4bf7-ae79-f5db63c96eb5">
+
 [Dataset](https://www.kaggle.com/datasets/ostromaj/a360-internship-practice)<br>
-![]()
-[Notebook]()<br>
-[Presentation]()<br>
+[Notebook](https://github.com/khushiyadav2022/Accenture-Internship-Project/blob/588ab12dc2c7d3dd24b09a7b1e72b03409e8771f/social-buzz-data-analysis%20(1).ipynb)<br>
+[Presentation](https://github.com/khushiyadav2022/Accenture-Internship-Project/blob/588ab12dc2c7d3dd24b09a7b1e72b03409e8771f/Social%20buzz%20ppt.pdf)<br>
 
 
 # Task
@@ -23,10 +25,20 @@ Social Buzz, a rapidly expanding technology unicorn, requires swift adaptation t
 - Data merging
 2. Data Visulization
 - Content Anlysis
+<img width="171" alt="distribution of content type" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/0255c1de-42e2-4fe4-97f5-c1447ce49313">
+
 - Category Analysis
+<img width="251" alt="Top 5 performing category" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/224ccd00-d4da-4e07-94e5-a49def3fc28e">
+
 - Reaction Analysis
+<img width="232" alt="Reaction type" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/38c12c68-be31-4db9-9e39-75db3af220fb">
+
 - Monthly / weekly Trends
+<img width="231" alt="Monthly trends" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/0a69f46b-c320-460f-8659-4d43f94bf42d">
+<img width="225" alt="weekly trends" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/2f24b3db-f786-44f5-af02-fc2243e5eadc">
+
 - Sentimental Analysis
+<img width="240" alt="Distribution of sentimental" src="https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/bf741470-74c8-4d39-9cd3-c4c30d5bf669">
 
 # Methodology:
 - <B>Data Cleaning and Improved Data Quality:</B> The dataset needs to undergo a thorough cleaning process to ensure data accuracy, consistency, and reliability. Enhancing the data quality will provide a solid foundation for meaningful analysis and decision-making.
@@ -47,5 +59,7 @@ Social Buzz, a rapidly expanding technology unicorn, requires swift adaptation t
 
 # Message to Client
 we recommend that the client focus on leveraging visually appealing content, particularly photos, to engage their target audience. Additionally, they can explore topics related to animals, culture, and education, which have shown positive sentiment and high mean scores. By understanding the dynamics of social media engagement and sentiment, the client can optimize their content strategy and tailor it to resonate with their audience's preferences.
+
+![](https://media.istockphoto.com/id/1397892955/photo/thank-you-message-for-card-presentation-business-expressing-gratitude-acknowledgment-and.jpg?s=612x612&w=0&k=20&c=7Lyf2sRAJnX_uiDy3ZEytmirul8pyJWm4l2fxiUtdvk=)
 
 
