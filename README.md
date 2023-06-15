@@ -4,7 +4,7 @@ Social Buzz Data Analysis
 ![](https://companieslogo.com/img/orig/ACN_BIG-3a6289fb.png?t=1633439499)
 
 # About Project
-Social Buzz, a rapidly expanding technology unicorn, requires swift adaptation to its global operations. To address this need, Accenture has initiated a 3-month Proof of Concept (POC) centered around the following objectives:
+Social Buzz, a rapidly expanding technology unicorn, requires swift adaptation to its global operations. To address this need, Accenture has initiated a 3-month Proof of Concept (POC) centered around the following objectives
 
 - Conducting an audit of Social Buzz's big data practices
 - Providing recommendations for a successful initial public offering (IPO)
