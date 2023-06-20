@@ -17,6 +17,10 @@ Social Buzz, a rapidly expanding technology unicorn, requires swift adaptation t
 [Notebook](https://github.com/khushiyadav2022/Accenture-Internship-Project/blob/588ab12dc2c7d3dd24b09a7b1e72b03409e8771f/social-buzz-data-analysis%20(1).ipynb)<br>
 [Presentation](https://github.com/khushiyadav2022/Accenture-Internship-Project/blob/588ab12dc2c7d3dd24b09a7b1e72b03409e8771f/Social%20buzz%20ppt.pdf)<br>
 
+### Dashboard
+![Social Buzz](https://github.com/khushiyadav2022/Accenture-Internship-Project/assets/108923908/2fa1758e-9c63-488d-9900-64c9f595a2ba)
+
+[Tableau Link](https://public.tableau.com/views/SocialBuzzAnalysis_16871547494870/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 # Task
 1. Improve Data Quality 
