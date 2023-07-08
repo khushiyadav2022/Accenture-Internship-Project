@@ -1,7 +1,7 @@
 
 
-# Accenture-Internship-Project
-Social Buzz Data Analysis
+<h1 align='center'> Accenture-Internship-Project</h1>
+<h4 align='center'>Social Buzz Data Analysis</h4>
 
 ![](https://companieslogo.com/img/orig/ACN_BIG-3a6289fb.png?t=1633439499)
 
